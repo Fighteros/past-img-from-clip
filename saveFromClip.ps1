@@ -1,0 +1,1 @@
+python E:\Projects\python_projects\pastToFile\saveFromClip.py
